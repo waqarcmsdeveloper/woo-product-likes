@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Product Like Button
  * Description: Adds a toggled like/dislike button with count to WooCommerce product pages using a shortcode.
- * Version: 2.0
+ * Version: 2.1
  * Author: reignwebexperts
  */
 
